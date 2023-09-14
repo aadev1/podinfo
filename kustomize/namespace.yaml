@@ -1,6 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: "${developmentaa}"
-  labels:
-    name: development
+  name: ${developmentaa}
