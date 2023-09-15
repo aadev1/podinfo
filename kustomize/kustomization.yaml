@@ -4,5 +4,6 @@ resources:
   - hpa.yaml
   - deployment.yaml
   - service.yaml
+  - simplepod.yaml
   - namespace.yaml
 
